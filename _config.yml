@@ -1,5 +1,4 @@
 # markdown
-highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions:
